@@ -18,3 +18,13 @@
   </a>
 </div>
 
+------
+
+### 🎨 Frontend
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,js)](https://github.com/Rafaelcfsouza)
+
+### ⚙️ Backend
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java)](https://github.com/Rafaelcfsouza)
+
+### 🛠️ Tools
+[![My Tools](https://skillicons.dev/icons?i=postman,git,github,figma,visualstudio)](https://github.com/Rafaelcfsouza)
